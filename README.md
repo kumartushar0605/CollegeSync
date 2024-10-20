@@ -33,3 +33,13 @@ Both learners and freelancers have access to personalized dashboards to track th
 ### Why College Connect ?
 
 By integrating global connectivity, seamless freelance opportunities, and organized contest alerts, College Connect provides a robust solution that enhances learning, creates income opportunities, and fosters global collaboration.
+
+## Project Visual Links
+
+### Product Demo :
+
+Youtube Link : https://youtu.be/99ciYx6vqwk?si=B-BXSlvB7b08JgCz
+
+### Project Presentation :
+
+Youtube Link : https://youtu.be/3xlAp38xnCw?si=EROuT7ZV2jIW9Bt9
