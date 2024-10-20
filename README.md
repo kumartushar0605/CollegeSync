@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-In the current academic ecosystem, students struggle to find reliable and efficient ways to solve doubts, collaborate globally, and access expert knowledge in real time. Traditional tutoring systems are often expensive, slow, or inaccessible, especially for students in remote or underserved areas. Moreover, there is no unified platform that allows students to engage with peers worldwide, limiting opportunities for collaborative learning and cultural exchange.
+In the current academic landscape, students struggle to find reliable and efficient ways to solve doubts, collaborate globally, and access expert knowledge in real time. Traditional tutoring methods are often expensive, slow, or inaccessible, especially for students in remote or underserved areas. Moreover, there is no unified platform that allows students to engage with peers worldwide, limiting opportunities for collaborative learning and cultural exchange.
 
 At the same time, many skilled students capable of tutoring or mentoring lack a centralized platform to monetize their expertise while balancing academic schedules. Additionally, competitive programming enthusiasts face challenges in tracking and preparing for contests spread across different platforms like CodeForces, LeetCode, and HackerRank. This fragmentation creates inefficiencies and hinders students from realizing their full potential in both learning and earning.
 
